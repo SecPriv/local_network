@@ -1,0 +1,7 @@
+*.lock
+.idea/
+out_dir/
+out/
+__pycache__/
+.mypy_cache/
+venv/

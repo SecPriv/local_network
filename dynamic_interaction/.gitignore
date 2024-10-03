@@ -1,0 +1,15 @@
+.DS_Store
+*sublime
+data
+venv/
+.venv
+.idea/
+__pycache__/
+build/
+.run/
+.vscode
+*.json
+*.apk
+out
+*.log
+.env

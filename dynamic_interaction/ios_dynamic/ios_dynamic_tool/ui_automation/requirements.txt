@@ -1,0 +1,4 @@
+Appium-Python-Client==2.7.1
+pylint==2.5.2
+selenium==4.7.2
+urllib3==1.26.13

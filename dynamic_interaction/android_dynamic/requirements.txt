@@ -1,0 +1,13 @@
+urllib3>=1.26.2
+Appium-Python-Client>=1.0.2
+androguard>=3.3.5
+mitmproxy>=6.0.0
+selenium>=3.14
+scapy
+objection
+GitPython>=3.1.0
+
+
+#[dev-packages]
+pylint>=2.6.0
+isort>=5.6.4

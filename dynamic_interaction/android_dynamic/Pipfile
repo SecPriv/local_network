@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+urllib3 = ">=1.26.2"
+appium-python-client = ">=1.0.2"
+androguard = ">=3.3.5"
+mitmproxy = ">=6.0.0"
+selenium = ">=3.14"
+scapy = "*"
+objection = "*"
+gitpython = ">=3.1.0"
+pylint = ">=2.6.0"
+isort = ">=5.6.4"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
