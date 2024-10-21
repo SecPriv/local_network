@@ -8,7 +8,7 @@ We analyzed the local network permission from a technical and user perspective.
 * We extracted and studied the concepts present in the messages shown alongside the permission.
 * We performed a user study to analyze users' understanding of the local network and common misconceptions.
 
-For more details, see our [paper](./paper.pdf).
+For more details, see our [paper](./misc/paper.pdf).
 
 ## Folder Structure
 * [RQ1: Test app](./test_app/)
@@ -24,7 +24,7 @@ For more details, see our [paper](./paper.pdf).
 
 ```
 @inproceedings{2025:local_network,
-    title     = {{Analyzing the iOS Local Network Permission from a Technical and User Perspective}}
+    title     = {{Analyzing the iOS Local Network Permission from a Technical and User Perspective}},
     author    = {Schmidt, David and Ponticello, Alexander and Steinböck, Magdalena and Krombholz, Katharina and Lindorfer, Martina},
     booktitle = {Proceedings of the 46th IEEE Symposium on Security and Privacy (S\&P)},
     year      = {2025},
@@ -37,14 +37,14 @@ For more details, see our [paper](./paper.pdf).
 
 * David Schmidt:
     * email: dschmidt@seclab.wien
-    * twitter: @dschm1dt
+    * twitter: [@dschm1dt](https://twitter.com/dschm1dt)
     * Topics:
         * Test app
         * Dynamic analysis
         * Rationale extraction
 * Alexander Ponticello:
     * email: alexander.ponticello@cispa.de
-    * twitter: @alip0nti
+    * twitter: [@alip0nti](https://twitter.com/alip0nti)
     * Topics:
         * Rationale classification
         * User study
@@ -54,5 +54,8 @@ For more details, see our [paper](./paper.pdf).
     * Topics:
         * Dataset
         * Dynamic analysis - iOS
-
+* Katharina Krombholz
+    * email: krombholz@cispa.de
+* Martina Lindorfer
+    * email: martina@seclab.wien
 
