@@ -27,6 +27,7 @@ For more details, see our [paper](./misc/paper.pdf).
     title     = {{Analyzing the iOS Local Network Permission from a Technical and User Perspective}},
     author    = {Schmidt, David and Ponticello, Alexander and Steinböck, Magdalena and Krombholz, Katharina and Lindorfer, Martina},
     booktitle = {Proceedings of the 46th IEEE Symposium on Security and Privacy (S\&P)},
+    doi       = {10.1109/SP61157.2025.00045},
     year      = {2025},
 }
 
